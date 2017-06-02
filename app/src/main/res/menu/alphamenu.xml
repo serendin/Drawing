@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="10dp"
+    android:layout_height="match_parent">
+    <item
+        android:title="@string/alpha"/>
+    <item
+        android:title="@string/alpha_10"
+        android:id="@+id/alpha_10" />
+    <item
+        android:title="@string/alpha_30"
+        android:id="@+id/alpha_30"/>
+    <item
+        android:title="@string/alpha_50"
+        android:id="@+id/alpha_50"/>
+    <item
+        android:title="@string/alpha_70"
+        android:id="@+id/alpha_70"/>
+    <item
+        android:title="@string/alpha_100"
+        android:id="@+id/alpha_100"/>
+</menu>

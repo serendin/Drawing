@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item android:title="@string/width_1"
+        android:id="@+id/width_1">
+    </item>
+    <item android:title="@string/width_2"
+        android:id="@+id/width_2" >
+    </item>
+    <item android:title="@string/width_3"
+        android:id="@+id/width_3" />
+    <item android:title="@string/width_4"
+        android:id="@+id/width_4" />
+    <item android:title="@string/width_5"
+        android:id="@+id/width_5" />
+</menu>

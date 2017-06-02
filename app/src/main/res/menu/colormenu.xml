@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="10dp"
+    android:layout_height="match_parent">
+    <item
+        android:title="@string/color_red"
+        android:id="@+id/red" />
+    <item
+        android:title="@string/color_orange"
+        android:id="@+id/orange"/>
+    <item
+        android:title="@string/color_yellow"
+        android:id="@+id/yellow"/>
+    <item
+        android:title="@string/color_green"
+        android:id="@+id/green"/>
+    <item
+        android:title="@string/color_bg"
+        android:id="@+id/blueGreen"/>
+    <item
+        android:title="@string/color_blue"
+        android:id="@+id/blue"/>
+    <item
+        android:title="@string/color_purple"
+        android:id="@+id/purple"/>
+    <item
+        android:title="@string/color_gray"
+        android:id="@+id/gray"/>
+    <item
+        android:title="@string/color_black"
+        android:id="@+id/black"/>
+</menu>
